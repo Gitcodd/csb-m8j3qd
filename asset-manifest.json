@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://gitcodd.github.io/csb-m8j3qd/static/css/main.109d5b19.chunk.css",
+    "main.js": "https://gitcodd.github.io/csb-m8j3qd/static/js/main.2fa11c71.chunk.js",
+    "main.js.map": "https://gitcodd.github.io/csb-m8j3qd/static/js/main.2fa11c71.chunk.js.map",
+    "runtime-main.js": "https://gitcodd.github.io/csb-m8j3qd/static/js/runtime-main.646e9a65.js",
+    "runtime-main.js.map": "https://gitcodd.github.io/csb-m8j3qd/static/js/runtime-main.646e9a65.js.map",
+    "static/js/2.9394c0fb.chunk.js": "https://gitcodd.github.io/csb-m8j3qd/static/js/2.9394c0fb.chunk.js",
+    "static/js/2.9394c0fb.chunk.js.map": "https://gitcodd.github.io/csb-m8j3qd/static/js/2.9394c0fb.chunk.js.map",
+    "index.html": "https://gitcodd.github.io/csb-m8j3qd/index.html",
+    "static/css/main.109d5b19.chunk.css.map": "https://gitcodd.github.io/csb-m8j3qd/static/css/main.109d5b19.chunk.css.map",
+    "static/js/2.9394c0fb.chunk.js.LICENSE.txt": "https://gitcodd.github.io/csb-m8j3qd/static/js/2.9394c0fb.chunk.js.LICENSE.txt",
+    "static/media/itigo.7e15589b.jpg": "https://gitcodd.github.io/csb-m8j3qd/static/media/itigo.7e15589b.jpg",
+    "static/media/kiui.bac469dd.jpg": "https://gitcodd.github.io/csb-m8j3qd/static/media/kiui.bac469dd.jpg",
+    "static/media/ringo.f861dad4.jpg": "https://gitcodd.github.io/csb-m8j3qd/static/media/ringo.f861dad4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.646e9a65.js",
+    "static/js/2.9394c0fb.chunk.js",
+    "static/css/main.109d5b19.chunk.css",
+    "static/js/main.2fa11c71.chunk.js"
+  ]
+}
